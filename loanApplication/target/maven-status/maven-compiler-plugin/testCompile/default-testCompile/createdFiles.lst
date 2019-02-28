@@ -1,0 +1,3 @@
+org\camunda\loanApplication\ProcessTestCoverageProcessEnginePlugin.class
+org\camunda\loanApplication\ProcessTest.class
+org\camunda\loanApplication\ProcessScenarioTest.class

@@ -1,0 +1,6 @@
+--------------- BEGIN CAMUNDA BPM LICENSE KEY ---------------
+ZOtGIbc9i9ZJ6stF4jVIH1HnVWu8D7iO23pRPY27MjCo3O7/583gFfm8nLEhP
+OHqqyrRt0e4FlII+Ya/PyxMXtyW/Rng+Awc+erIyHuyJPa+rOxxy3WemFt0k3
+YTEaahPUYNGoPa3EBxwyDU7neWXKexM7NcTvcATpQMGr5f8Es=;
+asaimani_works;2019-03-20
+--------------- END CAMUNDA BPM LICENSE KEY --------------- 

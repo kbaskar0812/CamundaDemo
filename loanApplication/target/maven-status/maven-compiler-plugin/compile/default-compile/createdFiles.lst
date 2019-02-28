@@ -1,0 +1,8 @@
+org\camunda\loanApplication\loanApprovalPkg\StartCamundaProcess.class
+org\camunda\loanApplication\CamundaApplication.class
+org\camunda\loanApplication\CheckLoanStatusDelegate.class
+org\camunda\loanApplication\LoggerDelegate.class
+org\camunda\loanApplication\loanApprovalPkg\LoanRequestList.class
+org\camunda\loanApplication\loanApprovalPkg\LoanApproveController.class
+org\camunda\loanApplication\loanApprovalPkg\LoanRequestRepo.class
+org\camunda\loanApplication\loanApprovalPkg\RestResponse.class

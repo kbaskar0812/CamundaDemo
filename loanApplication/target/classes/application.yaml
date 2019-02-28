@@ -1,0 +1,29 @@
+camunda.bpm:
+  admin-user:
+    id: demo
+    password: demo
+    firstName: Demo
+    lastName: Demo
+  filter:
+    create: All Tasks
+server.port: 8080
+
+
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/baski
+    username: root
+    password:
+  jpa:
+   hibernate.ddl-auto: create
+   generate-ddl: true
+   show-sql: true
+   
+spring.devtools.restart.enabled: true
+
+spring.jpa.database: default
+
+spring.jpa.hibernate.naming-strategy: org.hibernate.cfg.ImprovedNamingStrategy
+
+spring.jpa.properties.hibernate.dialect: org.hibernate.dialect.MySQL5Dialect
